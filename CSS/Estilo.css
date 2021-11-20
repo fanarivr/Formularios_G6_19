@@ -1,0 +1,22 @@
+
+
+th {          
+        background: #0c0d0d;
+        border-top: 2px solid #151617; 
+         }
+
+td {     
+        background: #9b9b9e;     
+        color: rgb(62, 62, 163);    
+        }
+
+tr:hover td { 
+    background: #cccfd7; 
+     color: rgb(171, 171, 243);}
+  label{
+	font-weight:bold;
+	display:inline-block;
+  }
+  h3{
+        text-align: center     
+  }
