@@ -1,8 +1,8 @@
-var UrlGetfacturas = 'http://localhost:90/G6_19old/Controller/ma_facturas.php?op=GetFacturas';
-var UrlPostfacturas ='http://localhost:90/G6_19old/Controller/ma_facturas.php?op=InsertFactura';
-var UrlPostIDfacturas ='http://localhost:90/G6_19old/Controller/ma_facturas.php?op=GetFactura';
-var UrlPutfacturas ='http://localhost:90/G6_19old/Controller/ma_facturas.php?op=UpdateFactura';
-var UrlDeletefactura ='http://localhost:90/G6_19old/Controller/ma_facturas.php?op=EliminarFactura';
+var UrlGetfacturas = 'http://34.68.196.220:90/G6_19/Facturas/Controller/ma_facturas.php?op=GetFacturas';
+var UrlPostfacturas ='http://34.68.196.220:90/G6_19/Facturas/Controller/ma_facturas.php?op=InsertFactura';
+var UrlPostIDfacturas ='http://34.68.196.220:90/G6_19/Facturas/Controller/ma_facturas.php?op=GetFactura';
+var UrlPutfacturas ='http://34.68.196.220:90/G6_19/Facturas/Controller/ma_facturas.php?op=UpdateFactura';
+var UrlDeletefactura ='http://34.68.196.220:90/G6_19/Facturas/Controller/ma_facturas.php?op=EliminarFactura';
 $(document).ready(function() {
     CargarFacturas();
 });
