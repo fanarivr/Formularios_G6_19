@@ -1,9 +1,9 @@
 
-var UrlGetArticulos = 'http://localhost:80/G6_19old/Controller/ma_articulos.php?op=GetArticulos';
-var UrlPostArticulos = 'http://localhost:80/G6_19old/Controller/ma_articulos.php?op=InsertArticulos';
-var UrlGetUno = 'http://localhost:80/G6_19old/Controller/ma_articulos.php?op=GetArticulo';
-var UrlPutArticulo = 'http://localhost:80/G6_19old/Controller/ma_articulos.php?op=UpdateArticulos';
-var UrlDeleteArticulo = 'http://localhost:80/G6_19old/Controller/ma_articulos.php?op=EliminarArticulos';
+var UrlGetArticulos = 'http://34.68.196.220:90/G6_19/Articulos/Controller/ma_articulos.php?op=GetArticulos';
+var UrlPostArticulos = 'http://34.68.196.220:90/G6_19/Articulos/Controller/ma_articulos.php?op=InsertArticulos';
+var UrlGetUno = 'http://34.68.196.220:90/G6_19/Articulos/Controller/ma_articulos.php?op=GetArticulo';
+var UrlPutArticulo = 'http://34.68.196.220:90/G6_19/Articulos/Controller/ma_articulos.php?op=UpdateArticulos';
+var UrlDeleteArticulo = 'http://34.68.196.220:90/G6_19/Articulos/Controller/ma_articulos.php?op=EliminarArticulos';
 
 
 $(document).ready(function(){
